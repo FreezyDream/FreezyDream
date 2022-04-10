@@ -1,0 +1,5 @@
+- Hi, I’m Miłosz
+- I'm interested in Back-end, but I'm open to many other technologies
+- I'm currently developing my skills in C++ and Java
+- Previously I had contact with C# and Pascal
+- If you have some job or project propositions, just ask
