@@ -2,4 +2,4 @@
 - I'm interested in Back-end, but I'm open to many other technologies
 - I'm currently developing my skills in C++ and Java
 - Previously I have programmed in C# and Pascal
-- If you have a job or project offer, just ask c:
+- If you have a job or project offer, hit me up c:
